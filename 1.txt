@@ -1,10 +1,12 @@
 dev1-before
 1
+dev3--update
 dev--update
 dev3--update
-1234567
+1234567abcd
 dev3--update
 dev--end
+dev3--end
 3
 dev1-bdfore
 dev3-add
