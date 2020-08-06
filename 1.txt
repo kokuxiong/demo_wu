@@ -1,6 +1,12 @@
 dev1-before
 1
-2
+dev3--update
+aabbccdd
+dev3--update
 3
 dev1-bdfore
-
+dev3-add
+a
+b
+c
+dev3-end
