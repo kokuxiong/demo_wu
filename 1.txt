@@ -5,3 +5,8 @@ dev2----add
 2
 3
 dev2----end
+dev2----add
+a
+b
+c
+dev2----end
